@@ -1,0 +1,9 @@
+c:\users\nemanja\documents\visual studio 2015\Projects\zi2\zi2\bin\Debug\zi2.exe.config
+c:\users\nemanja\documents\visual studio 2015\Projects\zi2\zi2\bin\Debug\zi2.exe
+c:\users\nemanja\documents\visual studio 2015\Projects\zi2\zi2\bin\Debug\zi2.pdb
+c:\users\nemanja\documents\visual studio 2015\Projects\zi2\zi2\obj\Debug\zi2.Form1.resources
+c:\users\nemanja\documents\visual studio 2015\Projects\zi2\zi2\obj\Debug\zi2.Properties.Resources.resources
+c:\users\nemanja\documents\visual studio 2015\Projects\zi2\zi2\obj\Debug\zi2.csproj.GenerateResource.Cache
+c:\users\nemanja\documents\visual studio 2015\Projects\zi2\zi2\obj\Debug\zi2.exe
+c:\users\nemanja\documents\visual studio 2015\Projects\zi2\zi2\obj\Debug\zi2.pdb
+C:\Users\Nemanja\documents\visual studio 2015\Projects\zi2\zi2\obj\Debug\zi2.csprojResolveAssemblyReference.cache
